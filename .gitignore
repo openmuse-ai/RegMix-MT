@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Local environments and editor files
+.venv/
+venv/
+.DS_Store
+.vscode/
+.idea/
+
+# Local training outputs and runtime artifacts
+checkpoints/
+runs/
+logs/
+.cache/
+*.log
+
+# Recomputed analysis outputs
+/output/

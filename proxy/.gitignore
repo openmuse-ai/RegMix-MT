@@ -1,0 +1,4 @@
+# Outputs created by proxy training and regression runs
+saves/
+logs/
+output/
